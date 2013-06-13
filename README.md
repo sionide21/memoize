@@ -26,3 +26,10 @@ class Foo(object):
     def bar(self):
         return 2 * 2 * 2
 ```
+
+
+## Installation
+
+This package is available on pypi. Installation is as simple as:
+
+    pip install memoize
